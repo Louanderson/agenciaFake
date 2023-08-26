@@ -1,2 +1,2 @@
 # agenciaFake
- Excercício prático de HTML5 e CSS3 
+ Exercício prático de HTML5 e CSS3 
